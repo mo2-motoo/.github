@@ -157,7 +157,7 @@ https://medium.com/@
         <th>Pictures</th>
          <td width="100" align="center">
             <a href="https://github.com/lsh1215">
-                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/ef544592-e67f-4567-9639-b93bc0a138af" width="80" height="80">
+                <img src="https://github.com/user-attachments/assets/5acaee97-6742-4f73-b47f-262cfdade814" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
@@ -165,27 +165,22 @@ https://medium.com/@
                 <img src="" width="80" height="80">
             </a>
         </td>
-        
     </tr>
     <tr>
         <th>Name</th>
         <td width="100" align="center">이상훈</td>
         <td width="100" align="center">최재영</td>
-        
     </tr>
     <tr>
         <th>Position</th>
         <td width="10" align="center">
-            Full stack<br>
+            Full Stack<br>
             DevOps<br>
-            System Architecture Design<br>
         </td>
         <td width="100" align="center">
-            Full stack<br>
+            Full Stack<br>
             DevOps<br>
-            System Architecture Design<br>
         </td>
-        
     </tr>
     <tr>
         <th>GitHub</th>
@@ -199,13 +194,9 @@ https://medium.com/@
                 <img src="http://img.shields.io/badge/Enble-green?style=social&logo=github"/>
             </a>
         </td>
-        
-        
-     </tr>
-    </tbody>
+    </tr>
+  </tbody>
 </table>
-
-
 
 <br />
 <br />
