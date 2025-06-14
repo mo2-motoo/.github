@@ -44,16 +44,21 @@ https://medium.com/@
 <br />
 <br />
 <h4>Backend</h4>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 
 
 <br />
 <br />
 <h4>DevOps</h4>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/New Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white">
 
 <br />
 <br />
@@ -165,11 +170,17 @@ https://medium.com/@
                 <img src="" width="80" height="80">
             </a>
         </td>
+        <td width="100" align="center">
+            <a href="https://github.com/UpToMind">
+                <img src="https://github.com/user-attachments/assets/a95526fe-4e0f-486a-a585-cad2673ed57c" width="80" height="80">
+            </a>
+        </td>
     </tr>
     <tr>
         <th>Name</th>
         <td width="100" align="center">이상훈</td>
         <td width="100" align="center">최재영</td>
+        <td width="100" align="center">이동준</td>
     </tr>
     <tr>
         <th>Position</th>
@@ -178,6 +189,10 @@ https://medium.com/@
             DevOps<br>
         </td>
         <td width="100" align="center">
+            Full Stack<br>
+            DevOps<br>
+        </td>
+        <td width="10" align="center">
             Full Stack<br>
             DevOps<br>
         </td>
@@ -192,6 +207,11 @@ https://medium.com/@
         <td width="100" align="center">
             <a href="https://github.com/Enble">
                 <img src="http://img.shields.io/badge/Enble-green?style=social&logo=github"/>
+            </a>
+        </td>
+      <td width="100" align="center">
+            <a href="https://github.com/UpToMind">
+                <img src="http://img.shields.io/badge/UpToMind-green?style=social&logo=github"/>
             </a>
         </td>
     </tr>
